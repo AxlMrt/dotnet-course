@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.AssemblyInfo.cs
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/formation/projet5/bin/Debug/net7.0/projet5
+/home/axel/Bureau/Work/formation/projet5/bin/Debug/net7.0/projet5.deps.json
+/home/axel/Bureau/Work/formation/projet5/bin/Debug/net7.0/projet5.runtimeconfig.json
+/home/axel/Bureau/Work/formation/projet5/bin/Debug/net7.0/projet5.dll
+/home/axel/Bureau/Work/formation/projet5/bin/Debug/net7.0/projet5.pdb
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.dll
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/refint/projet5.dll
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.pdb
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/projet5.genruntimeconfig.cache
+/home/axel/Bureau/Work/formation/projet5/obj/Debug/net7.0/ref/projet5.dll

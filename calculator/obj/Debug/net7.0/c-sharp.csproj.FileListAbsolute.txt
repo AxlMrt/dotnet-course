@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/c-sharp/bin/Debug/net7.0/c-sharp
+/home/axel/Bureau/Work/c-sharp/bin/Debug/net7.0/c-sharp.deps.json
+/home/axel/Bureau/Work/c-sharp/bin/Debug/net7.0/c-sharp.runtimeconfig.json
+/home/axel/Bureau/Work/c-sharp/bin/Debug/net7.0/c-sharp.dll
+/home/axel/Bureau/Work/c-sharp/bin/Debug/net7.0/c-sharp.pdb
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.AssemblyInfo.cs
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.dll
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/refint/c-sharp.dll
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.pdb
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/c-sharp.genruntimeconfig.cache
+/home/axel/Bureau/Work/c-sharp/obj/Debug/net7.0/ref/c-sharp.dll

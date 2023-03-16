@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.AssemblyInfo.cs
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/formation/projet3/bin/Debug/net7.0/projet3
+/home/axel/Bureau/Work/formation/projet3/bin/Debug/net7.0/projet3.deps.json
+/home/axel/Bureau/Work/formation/projet3/bin/Debug/net7.0/projet3.runtimeconfig.json
+/home/axel/Bureau/Work/formation/projet3/bin/Debug/net7.0/projet3.dll
+/home/axel/Bureau/Work/formation/projet3/bin/Debug/net7.0/projet3.pdb
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.dll
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/refint/projet3.dll
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.pdb
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/projet3.genruntimeconfig.cache
+/home/axel/Bureau/Work/formation/projet3/obj/Debug/net7.0/ref/projet3.dll

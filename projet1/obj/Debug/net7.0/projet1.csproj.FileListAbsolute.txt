@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/formation/projet1/bin/Debug/net7.0/projet1
+/home/axel/Bureau/Work/formation/projet1/bin/Debug/net7.0/projet1.deps.json
+/home/axel/Bureau/Work/formation/projet1/bin/Debug/net7.0/projet1.runtimeconfig.json
+/home/axel/Bureau/Work/formation/projet1/bin/Debug/net7.0/projet1.dll
+/home/axel/Bureau/Work/formation/projet1/bin/Debug/net7.0/projet1.pdb
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.AssemblyInfo.cs
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.dll
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/refint/projet1.dll
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.pdb
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/projet1.genruntimeconfig.cache
+/home/axel/Bureau/Work/formation/projet1/obj/Debug/net7.0/ref/projet1.dll

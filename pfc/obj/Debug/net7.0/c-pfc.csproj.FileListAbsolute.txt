@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.AssemblyInfo.cs
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/c-pfc/bin/Debug/net7.0/c-pfc
+/home/axel/Bureau/Work/c-pfc/bin/Debug/net7.0/c-pfc.deps.json
+/home/axel/Bureau/Work/c-pfc/bin/Debug/net7.0/c-pfc.runtimeconfig.json
+/home/axel/Bureau/Work/c-pfc/bin/Debug/net7.0/c-pfc.dll
+/home/axel/Bureau/Work/c-pfc/bin/Debug/net7.0/c-pfc.pdb
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.dll
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/refint/c-pfc.dll
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.pdb
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/c-pfc.genruntimeconfig.cache
+/home/axel/Bureau/Work/c-pfc/obj/Debug/net7.0/ref/c-pfc.dll

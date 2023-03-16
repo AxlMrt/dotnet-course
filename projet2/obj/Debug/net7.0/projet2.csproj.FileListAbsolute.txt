@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/formation/projet2/bin/Debug/net7.0/projet2
+/home/axel/Bureau/Work/formation/projet2/bin/Debug/net7.0/projet2.deps.json
+/home/axel/Bureau/Work/formation/projet2/bin/Debug/net7.0/projet2.runtimeconfig.json
+/home/axel/Bureau/Work/formation/projet2/bin/Debug/net7.0/projet2.dll
+/home/axel/Bureau/Work/formation/projet2/bin/Debug/net7.0/projet2.pdb
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.AssemblyInfo.cs
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.dll
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/refint/projet2.dll
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.pdb
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/projet2.genruntimeconfig.cache
+/home/axel/Bureau/Work/formation/projet2/obj/Debug/net7.0/ref/projet2.dll

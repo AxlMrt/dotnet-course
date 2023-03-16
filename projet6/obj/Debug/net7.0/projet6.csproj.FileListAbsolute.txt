@@ -1,0 +1,17 @@
+/home/axel/Bureau/Work/formation/projet6/bin/Debug/net7.0/projet6
+/home/axel/Bureau/Work/formation/projet6/bin/Debug/net7.0/projet6.deps.json
+/home/axel/Bureau/Work/formation/projet6/bin/Debug/net7.0/projet6.runtimeconfig.json
+/home/axel/Bureau/Work/formation/projet6/bin/Debug/net7.0/projet6.dll
+/home/axel/Bureau/Work/formation/projet6/bin/Debug/net7.0/projet6.pdb
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.AssemblyInfo.cs
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.dll
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/refint/projet6.dll
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.pdb
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.genruntimeconfig.cache
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/ref/projet6.dll
+/home/axel/Bureau/Work/formation/projet6/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/axel/Bureau/Work/formation/projet6/obj/Debug/net7.0/projet6.csproj.CopyComplete

@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/formation/projet4/bin/Debug/net7.0/projet4
+/home/axel/Bureau/Work/formation/projet4/bin/Debug/net7.0/projet4.deps.json
+/home/axel/Bureau/Work/formation/projet4/bin/Debug/net7.0/projet4.runtimeconfig.json
+/home/axel/Bureau/Work/formation/projet4/bin/Debug/net7.0/projet4.dll
+/home/axel/Bureau/Work/formation/projet4/bin/Debug/net7.0/projet4.pdb
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.AssemblyInfo.cs
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.dll
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/refint/projet4.dll
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.pdb
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/projet4.genruntimeconfig.cache
+/home/axel/Bureau/Work/formation/projet4/obj/Debug/net7.0/ref/projet4.dll

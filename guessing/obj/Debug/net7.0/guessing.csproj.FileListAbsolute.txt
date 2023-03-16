@@ -1,0 +1,15 @@
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.csproj.AssemblyReference.cache
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.GeneratedMSBuildEditorConfig.editorconfig
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.AssemblyInfoInputs.cache
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.AssemblyInfo.cs
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.csproj.CoreCompileInputs.cache
+/home/axel/Bureau/Work/guessing/bin/Debug/net7.0/guessing
+/home/axel/Bureau/Work/guessing/bin/Debug/net7.0/guessing.deps.json
+/home/axel/Bureau/Work/guessing/bin/Debug/net7.0/guessing.runtimeconfig.json
+/home/axel/Bureau/Work/guessing/bin/Debug/net7.0/guessing.dll
+/home/axel/Bureau/Work/guessing/bin/Debug/net7.0/guessing.pdb
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.dll
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/refint/guessing.dll
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.pdb
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/guessing.genruntimeconfig.cache
+/home/axel/Bureau/Work/guessing/obj/Debug/net7.0/ref/guessing.dll
